@@ -11,10 +11,14 @@
             "id": "bc025c4f6e7b856b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UdeC/2026-2/Proyecto Informatico/Soluciones Propuestas 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Soluciones Propuestas 1"
             }
           }
         ]
@@ -182,6 +186,9 @@
   },
   "active": "bc025c4f6e7b856b",
   "lastOpenFiles": [
+    "UdeC/2026-2/Proyecto Informatico/Soluciones Propuestas 1.md",
+    "UdeC/2026-2/Proyecto Informatico",
+    "UdeC/2026-2",
     "README.md",
     "Organizacion_Encargo_Unidad1.md",
     "Comands Basics LazyVim.md",
