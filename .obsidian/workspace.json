@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UdeC/2026-2/Proyecto Informatico/Guía de Investigación.md",
+                "file": "UdeC/2026-2/Proyecto Informatico/Justificación Fuentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guía de Investigación"
+              "title": "Justificación Fuentes"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85b69676f1839997",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UdeC/2026-2/Proyecto Informatico/Guía de Investigación.md",
+                "file": "UdeC/2026-2/Proyecto Informatico/Justificación Fuentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,11 +188,11 @@
   },
   "active": "ede62a1696d67c88",
   "lastOpenFiles": [
+    "UdeC/2026-2/Proyecto Informatico/Soluciones Propuestas 1.md",
     "UdeC/2026-2/Proyecto Informatico/Justificación Fuentes.md",
     "UdeC/2026-2/Proyecto Informatico/Guía de Investigación.md",
     "Comands Basics LazyVim.md",
     "UdeC/2026-2/Proyecto Informatico/Soluciones Propuestas 2 y 3.md",
-    "UdeC/2026-2/Proyecto Informatico/Soluciones Propuestas 1.md",
     "UdeC/2026-2/Proyecto Informatico",
     "UdeC/2026-2",
     "README.md",
