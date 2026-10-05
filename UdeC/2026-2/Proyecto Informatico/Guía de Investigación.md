@@ -9,7 +9,7 @@ tags:
 date: 2026-10-05
 type: guia-investigacion
 ---
->[!cite] Soluciones Propuestas
+Soluciones Propuestas
 > [[Soluciones Propuestas 1]] y [[Soluciones Propuestas 2 y 3]]
 
 #  Literatura Científica y Evidencia Sectorial
