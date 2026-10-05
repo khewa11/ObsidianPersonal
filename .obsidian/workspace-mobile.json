@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "2e3cd1a1f569debc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0a69898d24b820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbbf33fe71e8a47b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f84bbcb5ffed4f7a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9a46c07ad011423",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "af52289c69987a59",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "bb9e2df497edf74b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "1a085d7f5b47b079",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "10fc97cf80dcb49b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9fc8ed49c8d538c4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac3c011d0dc93ef0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Personal/Activismos/Sin título.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "00c127ed932bb0df",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Comands Basics LazyVim.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "24564f290a058415",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Comands Basics LazyVim.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "fbbf33fe71e8a47b",
+  "lastOpenFiles": [
+    "Personal/Activismos/Sin título.md",
+    "Personal/Activismos/Activismo Cívico Defensa Yo elijo mi PC.md",
+    "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Desafíos Computacionales de Escala Nacional con Operatividad desde la Ingeniería Local (Sector Minero).md",
+    "Personal/Activismos",
+    "UdeC/2026-2/Proyecto Informático",
+    "UdeC/2026-2",
+    "Comands Basics LazyVim.md"
+  ]
+}
