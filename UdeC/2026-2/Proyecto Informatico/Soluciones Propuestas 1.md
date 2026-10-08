@@ -6,7 +6,6 @@ tags:
   - telecomunicaciones
   - biobio
 date: 2026-10-05
-type: propuesta-proyecto
 ---
 
 # Propuestas de Proyecto: Resiliencia de Comunicaciones en Zonas Rurales

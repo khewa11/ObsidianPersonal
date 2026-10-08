@@ -49,5 +49,3 @@ _Ideal para tu código de OpenMP y CUDA. LazyVim detecta errores y autocompleta 
 |`:q` + `Enter`|Salir (_Quit_).|
 |`u`|Deshacer el último cambio (_Undo_).|
 |`Ctrl` + `r`|Rehacer el cambio (_Redo_).|
-
-*** **💡 Tip para tu examen:** Si abres tu proyecto en LazyVim y presionas `Ctrl + /`, se abrirá una terminal encima de tu código. Escribes `g++ -fopenmp main.cpp && ./a.out`, ves el resultado, vuelves a presionar `Ctrl + /` para ocultar la terminal y sigues programando sin quitar las manos del teclado.
