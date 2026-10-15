@@ -25,14 +25,26 @@
             "id": "b3d0eb11f25a3cfd",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Personal/Proyectos/Ayewün/Arquitectura.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Arquitectura.excalidraw"
+            }
+          },
+          {
+            "id": "64bf0e99724ff187",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Obsidian Basics"
             }
           }
         ],
@@ -203,6 +215,9 @@
   },
   "active": "b3d0eb11f25a3cfd",
   "lastOpenFiles": [
+    "Personal/Proyectos/Ayewün/Bot Cervecería Ayewün.md",
+    "Obsidian Basics.md",
+    "README.md",
     "UdeC/TESIS/POSIBLES TEMAS(PRIMERA ITERACIÓN)/Temas Proyecto Informatico.md",
     "UdeC/2026-1/CYSE/ElectriccMotors/Page/Scanning Ports.md",
     "UdeC/2026-1/CYSE/ElectriccMotors/Page/OWAS ZAP.md",
@@ -211,18 +226,15 @@
     "UdeC/2026-1/CYSE/ElectriccMotors",
     "UdeC/2026-1/CYSE",
     "UdeC/2026-1",
-    "Personal/Proyectos/Ayewün/Bot Cervecería Ayewün.md",
     "Personal/Proyectos/Ayewün/Arquitectura.excalidraw.md",
     "Personal/Proyectos/Ayewün",
     "Personal/Proyectos",
-    "Obsidian Basics.md",
     "Libraries/system-design.excalidrawlib",
     "Libraries/software-architecture.excalidrawlib",
     "Libraries/architecture-diagram-components.excalidrawlib",
     "Libraries",
     "Personal/Books/Personal/Drawing 2026-10-05 18.26.55.excalidraw.md",
     "Personal/Books/Personal/1984.md",
-    "README.md",
     "Untitled.md",
     "Espero que esto funcione bien.md",
     "UdeC/2026-2/Proyecto Informatico/Justificación Fuentes.md",

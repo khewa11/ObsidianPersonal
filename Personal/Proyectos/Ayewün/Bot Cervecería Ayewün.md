@@ -19,3 +19,8 @@ date: 2026-10-06
 - [ ] Modelación de arquitectura
 - [ ] Prototipado 1
 
+### Requerimientos Funcionales
+
+1. El sistema debe ser capaz de gestion minimo 3 bodegas a la vez (C1, C2, Evento)
+	1. Capcidad de trackear 
+
